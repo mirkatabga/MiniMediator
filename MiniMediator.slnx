@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MiniMediator.Sample/MiniMediator.Sample.csproj" />
+  <Project Path="MiniMediator/MiniMediator.csproj" />
+</Solution>
